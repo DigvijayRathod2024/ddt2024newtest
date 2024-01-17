@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-05T14:26:22 IST" name="DDt2024Trail" finished-at="2024-01-05T14:26:32 IST" duration-ms="10554">
+    <groups>
+    </groups>
+    <test started-at="2024-01-05T14:26:22 IST" name="Test1" finished-at="2024-01-05T14:26:30 IST" duration-ms="8420">
+      <class name="datadriventesting2024.Ddt2024FailedMuddamFithrow">
+        <test-method signature="test500()[pri:0, instance:datadriventesting2024.Ddt2024FailedMuddamFithrow@78ffe6dc]" started-at="2024-01-05T14:26:22 IST" name="test500" description="Muddam fail kartoy because to check file reading " finished-at="2024-01-05T14:26:30 IST" duration-ms="8352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test500 -->
+      </class> <!-- datadriventesting2024.Ddt2024FailedMuddamFithrow -->
+    </test> <!-- Test1 -->
+    <test started-at="2024-01-05T14:26:22 IST" name="Test2" finished-at="2024-01-05T14:26:32 IST" duration-ms="10553">
+      <class name="datadriventesting2024.Ddtt2024Onerow">
+        <test-method signature="test100()[pri:0, instance:datadriventesting2024.Ddtt2024Onerow@193f604a]" started-at="2024-01-05T14:26:22 IST" name="test100" finished-at="2024-01-05T14:26:32 IST" duration-ms="10495" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test100 -->
+      </class> <!-- datadriventesting2024.Ddtt2024Onerow -->
+    </test> <!-- Test2 -->
+  </suite> <!-- DDt2024Trail -->
+</testng-results>
